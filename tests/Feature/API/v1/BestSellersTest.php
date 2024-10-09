@@ -2,6 +2,7 @@
 
 namespace Tests\Feature\API\v1;
 
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
@@ -11,6 +12,12 @@ use Tests\TestCase;
 class BestSellersTest extends TestCase
 {
     const BASE_NYT_API_URL = 'https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json';
+
+    protected function setUp(): void
+    {
+        parent::setUp();
+        Cache::flush();
+    }
 
     #[Test]
     public function it_should_fail_validation_if_offset_is_invalid(): void
@@ -63,20 +70,6 @@ class BestSellersTest extends TestCase
     }
 
     #[Test]
-    public function it_should_return_bestsellers_if_no_options_are_sent(): void
-    {
-
-        Http::fake();
-
-        // The author and title must be strings. The query params will be parsed
-        // as strings so we have a custom validation rule that ensures that they aren't numeric.
-        $response = $this->getJson('/api/1/nyt/best-sellers?author=01234567892');
-        $response->assertStatus(422);
-
-        Http::assertNothingSent();
-    }
-
-    #[Test]
     public function it_should_return_401_if_no_api_key_is_sent_or_invalid(): void
     {
 
@@ -112,13 +105,14 @@ class BestSellersTest extends TestCase
 
         $stubbedResponse = File::get(base_path('tests/stubs/nyt_successful_response_no_params.json'));
 
+        // Non Cached Response Test
         Http::fake([
             'api.nytimes.com/*' => Http::response($stubbedResponse, 200),
         ]);
 
-        $response = $this->getJson('/api/1/nyt/best-sellers');
+        $nonCachedResponse = $this->getJson('/api/1/nyt/best-sellers');
 
-        $response->assertJson(json_decode($stubbedResponse, true));
+        $nonCachedResponse->assertJson(json_decode($stubbedResponse, true));
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
@@ -126,6 +120,22 @@ class BestSellersTest extends TestCase
             return $baseUrl == self::BASE_NYT_API_URL
                 && $request['api-key'] === config('services.nyt.api_key');
         });
+
+        // Cached Response Test
+
+        // Reset the fake to count the next calls separately
+        Http::fake([
+            'api.nytimes.com/*' => Http::response('This should not be called', 500),
+        ]);
+
+        $cachedResponse = $this->getJson('/api/1/nyt/best-sellers');
+
+        $cachedResponse->assertJson(json_decode($stubbedResponse, true));
+
+        Http::assertNothingSent();
+
+        $this->assertEquals($nonCachedResponse->json(), $cachedResponse->json());
+
     }
 
     #[Test]
@@ -134,13 +144,15 @@ class BestSellersTest extends TestCase
 
         $stubbedResponse = File::get(base_path('tests/stubs/nyt_successful_response_by_author.json'));
 
+        // Non Cached Response Test
+
         Http::fake([
             'api.nytimes.com/*' => Http::response($stubbedResponse, 200),
         ]);
 
-        $response = $this->getJson('/api/1/nyt/best-sellers?author=Stephen%20King');
+        $nonCachedResponse = $this->getJson('/api/1/nyt/best-sellers?author=Stephen%20King');
 
-        $response->assertJson(json_decode($stubbedResponse, true));
+        $nonCachedResponse->assertJson(json_decode($stubbedResponse, true));
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
@@ -149,6 +161,21 @@ class BestSellersTest extends TestCase
                 && $request['api-key'] === config('services.nyt.api_key')
                 && $request['author'] === 'Stephen King';
         });
+
+        // Cached Response Test
+
+        Http::fake([
+            'api.nytimes.com/*' => Http::response('This should not be called', 500),
+        ]);
+
+        $cachedResponse = $this->getJson('/api/1/nyt/best-sellers?author=Stephen%20King');
+
+        $cachedResponse->assertJson(json_decode($stubbedResponse, true));
+
+        Http::assertNothingSent();
+
+        $this->assertEquals($nonCachedResponse->json(), $cachedResponse->json());
+
     }
 
     #[Test]
@@ -157,13 +184,15 @@ class BestSellersTest extends TestCase
 
         $stubbedResponse = File::get(base_path('tests/stubs/nyt_successful_response_by_title.json'));
 
+        // Non Cached Response Test
+
         Http::fake([
             'api.nytimes.com/*' => Http::response($stubbedResponse, 200),
         ]);
 
-        $response = $this->getJson('/api/1/nyt/best-sellers?title=CELL');
+        $nonCachedResponse = $this->getJson('/api/1/nyt/best-sellers?title=CELL');
 
-        $response->assertJson(json_decode($stubbedResponse, true));
+        $nonCachedResponse->assertJson(json_decode($stubbedResponse, true));
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
@@ -172,6 +201,21 @@ class BestSellersTest extends TestCase
                 && $request['api-key'] === config('services.nyt.api_key')
                 && $request['title'] === 'CELL';
         });
+
+        // Cached Response Test
+
+        Http::fake([
+            'api.nytimes.com/*' => Http::response('This should not be called', 500),
+        ]);
+
+        $cachedResponse = $this->getJson('/api/1/nyt/best-sellers?title=CELL');
+
+        $cachedResponse->assertJson(json_decode($stubbedResponse, true));
+
+        Http::assertNothingSent();
+
+        $this->assertEquals($nonCachedResponse->json(), $cachedResponse->json());
+
     }
 
     #[Test]
@@ -184,9 +228,9 @@ class BestSellersTest extends TestCase
             'api.nytimes.com/*' => Http::response($stubbedResponse, 200),
         ]);
 
-        $response = $this->getJson('/api/1/nyt/best-sellers?offset=100');
+        $nonCachedResponse = $this->getJson('/api/1/nyt/best-sellers?offset=100');
 
-        $response->assertJson(json_decode($stubbedResponse, true));
+        $nonCachedResponse->assertJson(json_decode($stubbedResponse, true));
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
@@ -195,6 +239,21 @@ class BestSellersTest extends TestCase
                 && $request['api-key'] === config('services.nyt.api_key')
                 && $request['offset'] === 100;
         });
+
+        // Cached Response Test
+
+        Http::fake([
+            'api.nytimes.com/*' => Http::response('This should not be called', 500),
+        ]);
+
+        $cachedResponse = $this->getJson('/api/1/nyt/best-sellers?offset=100');
+
+        $cachedResponse->assertJson(json_decode($stubbedResponse, true));
+
+        Http::assertNothingSent();
+
+        $this->assertEquals($nonCachedResponse->json(), $cachedResponse->json());
+
     }
 
     #[Test]
@@ -207,9 +266,9 @@ class BestSellersTest extends TestCase
             'api.nytimes.com/*' => Http::response($stubbedResponse, 200),
         ]);
 
-        $response = $this->getJson('/api/1/nyt/best-sellers?isbn[]=1401228305');
+        $nonCachedResponse = $this->getJson('/api/1/nyt/best-sellers?isbn[]=1401228305');
 
-        $response->assertJson(json_decode($stubbedResponse, true));
+        $nonCachedResponse->assertJson(json_decode($stubbedResponse, true));
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
@@ -218,6 +277,20 @@ class BestSellersTest extends TestCase
                 && $request['api-key'] === config('services.nyt.api_key')
                 && $request['isbn'] === '1401228305';
         });
+
+        // Cached Response Test
+
+        Http::fake([
+            'api.nytimes.com/*' => Http::response('This should not be called', 500),
+        ]);
+
+        $cachedResponse = $this->getJson('/api/1/nyt/best-sellers?isbn[]=1401228305');
+        $cachedResponse->assertJson(json_decode($stubbedResponse, true));
+
+        Http::assertNothingSent();
+
+        $this->assertEquals($nonCachedResponse->json(), $cachedResponse->json());
+
     }
 
     #[Test]
@@ -226,13 +299,14 @@ class BestSellersTest extends TestCase
 
         $stubbedResponse = File::get(base_path('tests/stubs/nyt_successful_response_by_multiple_isbns.json'));
 
+        // Non Cached Response Test
         Http::fake([
             'api.nytimes.com/*' => Http::response($stubbedResponse, 200),
         ]);
 
-        $response = $this->getJson('/api/1/nyt/best-sellers?isbn[]=1401228305&isbn[]=9780316015844');
+        $nonCachedResponse = $this->getJson('/api/1/nyt/best-sellers?isbn[]=1401228305&isbn[]=9780316015844');
 
-        $response->assertJson(json_decode($stubbedResponse, true));
+        $nonCachedResponse->assertJson(json_decode($stubbedResponse, true));
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
@@ -241,5 +315,20 @@ class BestSellersTest extends TestCase
                 && $request['api-key'] === config('services.nyt.api_key')
                 && $request['isbn'] === '1401228305;9780316015844';
         });
+
+        // Cached Response Test
+
+        Http::fake([
+            'api.nytimes.com/*' => Http::response('This should not be called', 500),
+        ]);
+
+        $cachedResponse = $this->getJson('/api/1/nyt/best-sellers?isbn[]=1401228305&isbn[]=9780316015844');
+
+        $cachedResponse->assertJson(json_decode($stubbedResponse, true));
+
+        Http::assertNothingSent();
+
+        $this->assertEquals($nonCachedResponse->json(), $cachedResponse->json());
+
     }
 }

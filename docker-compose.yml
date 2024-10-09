@@ -7,11 +7,22 @@ services:
             - ./:/var/www
         ports:
             - "8080:80"
-        links:
-            - app
+        networks:
+            - app-network
     app:
         build:
             context: ./
             dockerfile: app.Dockerfile
         volumes:
             - ./:/var/www
+        networks:
+            - app-network
+    cache:
+        image: redis:alpine
+        ports:
+            - "6379:6379"
+        networks:
+            - app-network
+networks:
+    app-network:
+        driver: bridge
