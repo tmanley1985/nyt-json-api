@@ -1,0 +1,9 @@
+{
+    "status": "ERROR",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "errors": [
+        "Parameter isbn0887060994 is not a valid parameter\n",
+        "Bad Request"
+    ],
+    "results": []
+}

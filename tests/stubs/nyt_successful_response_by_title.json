@@ -1,0 +1,681 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 39,
+    "results": [
+        {
+            "title": "A Conspiracy of Cells: One Woman's Immortal Legacy and the Medical Scandal It Caused",
+            "description": null,
+            "contributor": null,
+            "author": "Michael Gold",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0887060994", "isbn13": "9780887060991" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/06/15/books/hela-s-legacy.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A Hedonist in the Cellar: Adventures in Wine",
+            "description": null,
+            "contributor": null,
+            "author": "Jay McInerney",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "1400096375", "isbn13": "9781400096374" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2006/11/11/books/11pria.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/10/22/books/review/Steinberger.t.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "CELL",
+            "description": "A medical app called iDoc seems to be killing patients; has it been hacked?",
+            "contributor": "by Robin Cook",
+            "author": "Robin Cook",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Putnam",
+            "isbns": [{ "isbn10": "0399166300", "isbn13": "9780399166303" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "CELL",
+            "description": "After a devastating phenomenon is delivered via everyone\u2019s cellphone, a graphic artist tries to make his way back to his family.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [
+                { "isbn10": "1416524517", "isbn13": "9781416524519" },
+                { "isbn10": "1982189983", "isbn13": "9781982189983" },
+                { "isbn10": "150112224X", "isbn13": "9781501122248" },
+                { "isbn10": "0743292332", "isbn13": "9780743292337" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1982189983",
+                    "primary_isbn13": "9781982189983",
+                    "rank": 13,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2022-05-15",
+                    "bestsellers_date": "2022-04-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2006/02/05/books/review/05itzkoff.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Cellophane",
+            "description": null,
+            "contributor": null,
+            "author": "Marie Arana",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0385336659", "isbn13": "9780385336659" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/07/16/books/review/16schillinger.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "CELLULOID INDIANS",
+            "description": "",
+            "contributor": "by Jacquelyn Kilpatrick",
+            "author": "Jacquelyn Kilpatrick",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "University of Nebraska Press",
+            "isbns": [{ "isbn10": "0803277903", "isbn13": "9780803277908" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "CEO EXCELLENCE",
+            "description": "",
+            "contributor": "by Carolyn Dewar, Scott Keller and Vikram Malhotra",
+            "author": "Carolyn Dewar, Scott Keller and Vikram Malhotra",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [
+                { "isbn10": "1982179678", "isbn13": "9781982179670" },
+                { "isbn10": "1982179694", "isbn13": "9781982179694" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1982179678",
+                    "primary_isbn13": "9781982179670",
+                    "rank": 10,
+                    "list_name": "Business Books",
+                    "display_name": "Business",
+                    "published_date": "2022-05-15",
+                    "bestsellers_date": "2022-04-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 1
+                },
+                {
+                    "primary_isbn10": "1982179678",
+                    "primary_isbn13": "9781982179670",
+                    "rank": 10,
+                    "list_name": "Business Books",
+                    "display_name": "Business",
+                    "published_date": "2022-04-17",
+                    "bestsellers_date": "2022-04-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 1
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Confessions of a Cineplex Heckler: Celluloid Tirades and Escapades",
+            "description": null,
+            "contributor": null,
+            "author": "Joe Queenan",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0786884649", "isbn13": "9780786884643" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/02/20/books/books-in-brief-nonfiction-776424.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "DEATH\u2019S EXCELLENT VACATION",
+            "description": "A collection of tales of paranormal holidays, including a new Sookie Stackhouse story.",
+            "contributor": "edited by Charlaine Harris and Toni L. P. Kelner",
+            "author": "edited  Charlaine Harris and Toni L P Kelner",
+            "contributor_note": "edited by Charlaine Harris and Toni L. P. Kelner",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Ace",
+            "isbns": [{ "isbn10": "0441018688", "isbn13": "9780441018680" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Equity and Excellence in American Higher Education (Thomas Jefferson Foundation Distinguished Lecture Series)",
+            "description": null,
+            "contributor": null,
+            "author": "Susanne C. Pichler",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0813925576", "isbn13": "9780813925578" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2005/04/24/education/edlife/bowen.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "ESCAPE FROM MR. LEMONCELLO\u2019S LIBRARY",
+            "description": "A group of kids find themselves locked in a futuristic library.",
+            "contributor": "by Chris Grabenstein",
+            "author": "Chris Grabenstein",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Yearling",
+            "isbns": [
+                { "isbn10": "0375970894", "isbn13": "9780375970894" },
+                { "isbn10": "0307974960", "isbn13": "9780307974969" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 7,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2017-01-29",
+                    "bestsellers_date": "2017-01-14",
+                    "weeks_on_list": 71,
+                    "rank_last_week": 7,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 7,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2017-01-22",
+                    "bestsellers_date": "2017-01-07",
+                    "weeks_on_list": 70,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 3,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2017-01-15",
+                    "bestsellers_date": "2016-12-31",
+                    "weeks_on_list": 69,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 2,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2017-01-08",
+                    "bestsellers_date": "2016-12-24",
+                    "weeks_on_list": 68,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 4,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2017-01-01",
+                    "bestsellers_date": "2016-12-17",
+                    "weeks_on_list": 67,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 4,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-12-25",
+                    "bestsellers_date": "2016-12-10",
+                    "weeks_on_list": 66,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 6,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-12-18",
+                    "bestsellers_date": "2016-12-03",
+                    "weeks_on_list": 65,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 3,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-12-11",
+                    "bestsellers_date": "2016-11-26",
+                    "weeks_on_list": 64,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 5,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-12-04",
+                    "bestsellers_date": "2016-11-19",
+                    "weeks_on_list": 63,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 5,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-11-27",
+                    "bestsellers_date": "2016-11-12",
+                    "weeks_on_list": 62,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 4,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-11-20",
+                    "bestsellers_date": "2016-11-05",
+                    "weeks_on_list": 61,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 4,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-11-13",
+                    "bestsellers_date": "2016-10-29",
+                    "weeks_on_list": 60,
+                    "rank_last_week": 7,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 7,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-11-06",
+                    "bestsellers_date": "2016-10-22",
+                    "weeks_on_list": 59,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 10,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-10-30",
+                    "bestsellers_date": "2016-10-15",
+                    "weeks_on_list": 58,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307974960",
+                    "primary_isbn13": "9780307974969",
+                    "rank": 2,
+                    "list_name": "Childrens Middle Grade E-Book",
+                    "display_name": "Children\u2019s Middle Grade E-Book",
+                    "published_date": "2016-10-23",
+                    "bestsellers_date": "2016-10-08",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 9,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-10-23",
+                    "bestsellers_date": "2016-10-08",
+                    "weeks_on_list": 57,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0307931471",
+                    "primary_isbn13": "9780307931474",
+                    "rank": 8,
+                    "list_name": "Childrens Middle Grade Paperback",
+                    "display_name": "Children\u2019s Middle Grade Paperback",
+                    "published_date": "2016-10-16",
+                    "bestsellers_date": "2016-10-01",
+                    "weeks_on_list": 56,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "EXCELLENT SHEEP",
+            "description": "A former professor argues that college should be a time for self-discovery and denounces anxious, hoop-jumping students on a track from elite universities to Wall Street.",
+            "contributor": "by William Deresiewicz",
+            "author": "William Deresiewicz",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Free Press",
+            "isbns": [{ "isbn10": "1476702713", "isbn13": "9781476702711" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2014/08/13/books/excellent-sheep-william-deresiewiczs-manifesto.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2014/08/24/books/review/excellent-sheep-by-william-deresiewicz.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Forms of Attention: Botticelli and Hamlet (Wellek Library Lectures)",
+            "description": null,
+            "contributor": null,
+            "author": "Frank Kermode",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0226431754", "isbn13": "9780226431758" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1985/07/14/books/keeping-the-cannon-rolling.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Full House: The Spread of Excellence from Plato to Darwin",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen Jay Gould",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0674061616", "isbn13": "9780674061613" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1996/09/22/books/where-have-you-gone-ted-williams.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "GIRL IN THE CELLAR",
+            "description": "The story of Natascha Kampusch, the 10-year-old girl who was abducted in Austria in 1998 and escaped from the suburban cellar in which she was held captive for more than eight years.",
+            "contributor": "by Allan Hall and Michael Leidig",
+            "author": "Allan Hall and Michael Leidig",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Harper",
+            "isbns": [{ "isbn10": "0061989878", "isbn13": "9780061989872" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "HOW EXCELLENT COMPANIES AVOID DUMB THINGS",
+            "description": "Identify the 8 barriers that interrupt success.",
+            "contributor": "by Neil Smith with Patricia O\u2019Connell",
+            "author": "Neil Smith with Patricia O\u2019Connell",
+            "contributor_note": "",
+            "price": "26.00",
+            "age_group": "",
+            "publisher": "Palgrave Macmillan",
+            "isbns": [{ "isbn10": "1137003065", "isbn13": "9781137003065" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Human Accomplishment: The Pursuit of Excellence in the Arts and Sciences, 800 B.C. to 1950",
+            "description": null,
+            "contributor": null,
+            "author": "Charles Murray",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0060929642", "isbn13": "9780060929640" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/11/30/books/the-best-and-the-brightest.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Life Itself: Exploring the Realm of the Living Cell",
+            "description": null,
+            "contributor": null,
+            "author": "Boyce Rensberger",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0195125002", "isbn13": "9780195125009" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/02/23/books/body-building.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "MICHAEL VEY: THE PRISONER OF CELL 25",
+            "description": "Powers prove dangerous.",
+            "contributor": "by Richard Paul Evans",
+            "author": "Richard Paul Evans",
+            "contributor_note": "",
+            "price": "9.99",
+            "age_group": "Ages 12 to 17",
+            "publisher": "Mercury Ink/Simon Pulse",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Monumenta Britannica or A Miscellany of British Antiquities Parts One and Two",
+            "description": null,
+            "contributor": null,
+            "author": "John Aubrey",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0316059080", "isbn13": "9780316059084" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1982/03/07/books/literary-archeology.html",
+                    "article_chapter_link": null
+                }
+            ]
+        }
+    ]
+}
