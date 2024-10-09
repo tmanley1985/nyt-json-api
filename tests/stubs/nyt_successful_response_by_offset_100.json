@@ -1,0 +1,693 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 36367,
+    "results": [
+        {
+            "title": "1915 The Death of Innocence (WWI)",
+            "description": null,
+            "contributor": null,
+            "author": "Lyn Macdonald",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0805034994", "isbn13": "9780805034998" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/05/14/books/in-short-nonfiction-792395.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1920 Diary",
+            "description": null,
+            "contributor": null,
+            "author": "Isaac Babel",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0300059663", "isbn13": "9780300059663" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/06/04/books/a-jew-among-the-cossacks.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1934: A Novel",
+            "description": null,
+            "contributor": null,
+            "author": "Alberto Moravia",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0374526524", "isbn13": "9780374526528" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1983/05/08/books/desperate-remedies.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1939: Lost World of Fair",
+            "description": null,
+            "contributor": null,
+            "author": "David Gelernter",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "038072748X", "isbn13": "9780380727483" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1995/07/02/books/meet-me-at-the-fair.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1942: The Year That Tried Men's Souls",
+            "description": null,
+            "contributor": null,
+            "author": "Winston Groom",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0802142508", "isbn13": "9780802142504" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/05/29/books/review/29COHENL.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1944",
+            "description": "A pivotal year that saw D-Day, the liberation of Paris, Franklin Roosevelt\u2019s re-election and the Battle of the Bulge.",
+            "contributor": "by Jay Winik",
+            "author": "Jay Winik",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "isbns": [
+                { "isbn10": "1439114080", "isbn13": "9781439114087" },
+                { "isbn10": "1439136475", "isbn13": "9781439136478" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2015/11/08/books/review/jay-winiks-1944-fdr-and-the-year-that-changed-history.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1964",
+            "description": "A collection of photographs taken with a 35-millimeter camera during the rise of the Beatles from the end of 1963 through early 1964.",
+            "contributor": "by Paul McCartney",
+            "author": "Paul McCartney",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Liveright",
+            "isbns": [{ "isbn10": "1324093064", "isbn13": "9781324093060" }],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 9,
+                    "list_name": "Hardcover Nonfiction",
+                    "display_name": "Hardcover Nonfiction",
+                    "published_date": "2023-07-30",
+                    "bestsellers_date": "2023-07-15",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 5,
+                    "list_name": "Hardcover Nonfiction",
+                    "display_name": "Hardcover Nonfiction",
+                    "published_date": "2023-07-23",
+                    "bestsellers_date": "2023-07-08",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 10,
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "published_date": "2023-07-23",
+                    "bestsellers_date": "2023-07-08",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 6,
+                    "list_name": "Hardcover Nonfiction",
+                    "display_name": "Hardcover Nonfiction",
+                    "published_date": "2023-07-16",
+                    "bestsellers_date": "2023-07-01",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 10,
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "published_date": "2023-07-16",
+                    "bestsellers_date": "2023-07-01",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 6,
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "published_date": "2023-07-09",
+                    "bestsellers_date": "2023-06-24",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 3,
+                    "list_name": "Hardcover Nonfiction",
+                    "display_name": "Hardcover Nonfiction",
+                    "published_date": "2023-07-09",
+                    "bestsellers_date": "2023-06-24",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 4,
+                    "list_name": "Hardcover Nonfiction",
+                    "display_name": "Hardcover Nonfiction",
+                    "published_date": "2023-07-02",
+                    "bestsellers_date": "2023-06-17",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1324093064",
+                    "primary_isbn13": "9781324093060",
+                    "rank": 6,
+                    "list_name": "Combined Print and E-Book Nonfiction",
+                    "display_name": "Combined Print & E-Book Nonfiction",
+                    "published_date": "2023-07-02",
+                    "bestsellers_date": "2023-06-17",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1967: Israel, the War, and the Year that Transformed the Middle East",
+            "description": null,
+            "contributor": null,
+            "author": "Tom Segev",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0805088121", "isbn13": "9780805088120" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2007/07/15/books/review/Margolick-t.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1982, Janine (Canongate Classics)",
+            "description": null,
+            "contributor": null,
+            "author": "Alasdair Gray",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "1841953466", "isbn13": "9781841953465" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1984/10/28/books/the-impulse-to-outrage.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1988",
+            "description": null,
+            "contributor": null,
+            "author": "Andrew McGahan",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0312180322", "isbn13": "9780312180324" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/02/23/books/australia-not-that-boring.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "1Q84",
+            "description": "In 1980s Tokyo, a woman who punishes perpetrators of domestic violence has ties to an aspiring novelist with an unusual project.",
+            "contributor": "by Haruki Murakami",
+            "author": "Haruki Murakami",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Vintage",
+            "isbns": [
+                { "isbn10": "0307593312", "isbn13": "9780307593313" },
+                { "isbn10": "0307957020", "isbn13": "9780307957023" },
+                { "isbn10": "8483832968", "isbn13": "9788483832967" },
+                { "isbn10": "0307476464", "isbn13": "9780307476463" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2011/11/10/books/1q84-by-haruki-murakami-review.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/11/06/books/review/1q84-by-haruki-murakami-translated-by-jay-rubin-and-philip-gabriel-book-review.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1ST CASE",
+            "description": "After getting kicked out of M.I.T., Angela Hoot interns with the F.B.I. and tracks the murderous siblings known as the Poet and the Engineer.",
+            "contributor": "by James Patterson and Chris Tebbetts",
+            "author": "James Patterson and Chris Tebbetts",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Grand Central",
+            "isbns": [
+                { "isbn10": "0316418188", "isbn13": "9780316418188" },
+                { "isbn10": "0316418196", "isbn13": "9780316418195" },
+                { "isbn10": "0316418315", "isbn13": "9780316418317" },
+                { "isbn10": "1538714973", "isbn13": "9781538714973" },
+                { "isbn10": "1538714981", "isbn13": "9781538714980" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1538714981",
+                    "primary_isbn13": "9781538714980",
+                    "rank": 3,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2022-05-15",
+                    "bestsellers_date": "2022-04-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "2 SISTERS DETECTIVE AGENCY",
+            "description": "The attorney Rhonda Bird investigates a case involving overprivileged young adults and a former assassin.",
+            "contributor": "by James Patterson and Candice Fox",
+            "author": "James Patterson and Candice Fox",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Grand Central",
+            "isbns": [
+                { "isbn10": "1538704587", "isbn13": "9781538704585" },
+                { "isbn10": "1538704609", "isbn13": "9781538704608" },
+                { "isbn10": "1538719940", "isbn13": "9781538719947" },
+                { "isbn10": "1538720809", "isbn13": "9781538720806" },
+                { "isbn10": "1538707225", "isbn13": "9781538707227" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1538720809",
+                    "primary_isbn13": "9781538720806",
+                    "rank": 15,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2022-11-13",
+                    "bestsellers_date": "2022-10-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538720809",
+                    "primary_isbn13": "9781538720806",
+                    "rank": 3,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2022-10-16",
+                    "bestsellers_date": "2022-10-01",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 14,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2021-11-28",
+                    "bestsellers_date": "2021-11-13",
+                    "weeks_on_list": 6,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 10,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2021-11-21",
+                    "bestsellers_date": "2021-11-06",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 8,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2021-11-14",
+                    "bestsellers_date": "2021-10-30",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 6,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2021-11-07",
+                    "bestsellers_date": "2021-10-23",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 8,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2021-10-31",
+                    "bestsellers_date": "2021-10-16",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 13,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2021-10-31",
+                    "bestsellers_date": "2021-10-16",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704587",
+                    "primary_isbn13": "9781538704585",
+                    "rank": 8,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2021-10-24",
+                    "bestsellers_date": "2021-10-09",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1538704609",
+                    "primary_isbn13": "9781538704608",
+                    "rank": 8,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2021-10-24",
+                    "bestsellers_date": "2021-10-09",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "2,100 ASANAS",
+            "description": "An illustrated dictionary of yoga poses reveals the range of athleticism possible from beginning through advanced levels.",
+            "contributor": "by Daniel Lacerda",
+            "author": "Daniel Lacerda",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Black Dog",
+            "isbns": [{ "isbn10": "1631910108", "isbn13": "9781631910104" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "20 YEARS YOUNGER",
+            "description": "Feeling better as you age by addressing exercise, diet, sleep and skin care.",
+            "contributor": "by Bob Greene with Howard Lancer, Ronald L. Kotler and Diane L. McKay",
+            "author": "Bob Greene with Howard Lancer, Ronald L Kotler and Diane L McKay",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Little, Brown",
+            "isbns": [{ "isbn10": "0316133787", "isbn13": "9780316133784" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "2007-Eleven: And Other American Comedies",
+            "description": null,
+            "contributor": null,
+            "author": "Hart Seely",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0375504125", "isbn13": "9780375504129" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/07/09/books/books-in-brief-nonfiction-996742.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "2010 TAKE BACK AMERICA",
+            "description": "The most vulnerable incumbent Democrats and how to defeat them.",
+            "contributor": "by Dick Morris and Eileen McGann",
+            "author": "Dick Morris and Eileen McGann",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Harper/HarperCollins",
+            "isbns": [{ "isbn10": "0061988448", "isbn13": "9780061988448" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "2012: The Return of Quetzalcoatl",
+            "description": null,
+            "contributor": null,
+            "author": "Daniel Pinchbeck",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "1585425923", "isbn13": "9781585425921" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/06/18/books/review/18swofford.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "2016 WORLD SERIES CHAMPIONS: THE CHICAGO CUBS",
+            "description": "",
+            "contributor": "by the staff of Major League Baseball",
+            "author": "the staff of Major League Baseball",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "McClelland & Stewart",
+            "isbns": [{ "isbn10": "077100317X", "isbn13": "9780771003172" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "2030",
+            "description": "In 2030, the young resent the elderly for draining the weakening economy, and a devastating earthquake in Los Angeles tests the administration of the country's first Jewish president.",
+            "contributor": "by Albert Brooks",
+            "author": "Albert Brooks",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "St. Martin's",
+            "isbns": [
+                { "isbn10": "0312583729", "isbn13": "9780312583729" },
+                { "isbn10": "1429996501", "isbn13": "9781429996501" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2011/05/02/books/albert-brookss-2030-his-first-novel-review.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/05/22/books/review/book-review-2030-by-albert-brooks.html",
+                    "article_chapter_link": "https://www.nytimes.com/2011/05/04/books/albert-brooks-the-novelist-relishes-his-worries-in-2030.html"
+                }
+            ]
+        }
+    ]
+}

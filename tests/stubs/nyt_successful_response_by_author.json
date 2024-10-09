@@ -1,0 +1,713 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 53,
+    "results": [
+        {
+            "title": "11/22/63",
+            "description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment: Stop Lee Harvey Oswald.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket Books",
+            "isbns": [
+                { "isbn10": "1451627289", "isbn13": "9781451627282" },
+                { "isbn10": "1451627297", "isbn13": "9781451627299" },
+                { "isbn10": "030795143X", "isbn13": "9780307951434" },
+                { "isbn10": "1594135592", "isbn13": "9781594135590" },
+                { "isbn10": "1501120603", "isbn13": "9781501120602" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2011/10/31/books/stephen-kings-11-23-63-review.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/11/13/books/review/11-22-63-by-stephen-king-book-review.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A FACE IN THE CROWD",
+            "description": "An elderly widower watches baseballt to distract himself from his wife's death, but figures from his past appear every night in the seat behind home plate; a Kindle single.",
+            "contributor": "by Stephen King and Stewart O'Nan",
+            "author": "Stephen King and Stewart O'Nan",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [{ "isbn10": "1476713340", "isbn13": "9781476713342" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A GOOD MARRIAGE",
+            "description": "An unsuspecting accountant's wife makes a disturbing discovery; first published in 2010, now a movie.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [{ "isbn10": "150110442X", "isbn13": "9781501104428" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AMERICAN VAMPIRE, VOL. 1",
+            "description": "What do the roaring 20\u2019s and the wild west have in common? Vampires.",
+            "contributor": "by Scott Snyder, Stephen King and Rafael Albuquereque",
+            "author": "Scott Snyder, Stephen King and Rafael Albuquereque",
+            "contributor_note": "",
+            "price": "24.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [{ "isbn10": "1401228305", "isbn13": "9781401228309" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AMERICAN VAMPIRE, VOL. 1",
+            "description": "This series, about a new species of vampire that does not have the traditional weakness, shifts to Las Vegas in the 1930's and a number of corpses that have turned up drained of blood.",
+            "contributor": "by Scott Snyder and Stephen King",
+            "author": "Scott Snyder and Stephen King",
+            "contributor_note": "",
+            "price": "19.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [{ "isbn10": "1401229743", "isbn13": "9781401229740" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Bag of Bones",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "1451678622", "isbn13": "9781451678628" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/09/27/books/familiar-terrors.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "BILLY SUMMERS",
+            "description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [
+                { "isbn10": "1982173610", "isbn13": "9781982173616" },
+                { "isbn10": "1982173637", "isbn13": "9781982173630" },
+                { "isbn10": "179712269X", "isbn13": "9781797122694" },
+                { "isbn10": "1668010127", "isbn13": "9781668010129" },
+                { "isbn10": "1982173629", "isbn13": "9781982173623" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1668010127",
+                    "primary_isbn13": "9781668010129",
+                    "rank": 4,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2023-09-17",
+                    "bestsellers_date": "2023-09-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668010127",
+                    "primary_isbn13": "9781668010129",
+                    "rank": 2,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2023-08-13",
+                    "bestsellers_date": "2023-07-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BLOCKADE BILLY",
+            "description": "A tale about the dark side of baseball, circa 1957.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "14.99",
+            "age_group": "",
+            "publisher": "Simon & Schuster",
+            "isbns": [
+                { "isbn10": "1451608217", "isbn13": "9781451608212" },
+                { "isbn10": "1587672286", "isbn13": "9781587672286" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "CELL",
+            "description": "After a devastating phenomenon is delivered via everyone\u2019s cellphone, a graphic artist tries to make his way back to his family.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [
+                { "isbn10": "1416524517", "isbn13": "9781416524519" },
+                { "isbn10": "1982189983", "isbn13": "9781982189983" },
+                { "isbn10": "150112224X", "isbn13": "9781501122248" },
+                { "isbn10": "0743292332", "isbn13": "9780743292337" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2006/02/05/books/review/05itzkoff.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Christine (Signet)",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0451160444", "isbn13": "9780451160447" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1983/04/03/books/the-other-woman-was-a-car.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Danse Macabre",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "1439170983", "isbn13": "9781439170984" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1981/05/10/books/scare-tactics.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Different Seasons (Signet)",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0451167538", "isbn13": "9780451167538" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1982/08/29/books/horror-writer-s-holiday.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "DOCTOR SLEEP",
+            "description": "Now grown up, Dan, the boy with psycho-intuitive powers in \u201cThe Shining,\u201d helps another child with a spectacular gift.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [
+                { "isbn10": "1476727651", "isbn13": "9781476727653" },
+                { "isbn10": "147672766X", "isbn13": "9781476727660" },
+                { "isbn10": "1410462447", "isbn13": "9781410462442" },
+                { "isbn10": "1451698852", "isbn13": "9781451698855" },
+                { "isbn10": "1476779414", "isbn13": "9781476779416" },
+                { "isbn10": "1451698860", "isbn13": "9781451698862" },
+                { "isbn10": "1982138866", "isbn13": "9781982138868" },
+                { "isbn10": "1982131802", "isbn13": "9781982131807" },
+                { "isbn10": "1797101358", "isbn13": "9781797101354" },
+                { "isbn10": "1442362383", "isbn13": "9781442362383" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2013/09/16/books/doctor-sleep-is-stephen-kings-sequel-to-the-shining.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2013/09/22/books/review/stephen-kings-shining-sequel-doctor-sleep.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Dolores Claiborne",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0451177096", "isbn13": "9780451177094" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1992/12/27/books/in-short-fiction-524792.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Dreamcatcher",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "074343627X", "isbn13": "9780743436274" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/04/15/books/weasel-from-another-planet.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "DUMA KEY",
+            "description": "A Minnesota contractor moves to Florida to recover from an injury and starts creating paintings with eerie powers.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "9.99",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [{ "isbn10": "1416552960", "isbn13": "9781416552963" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2008/01/21/books/21maslin.html",
+                    "first_chapter_link": "https://www.nytimes.com/2008/03/02/books/chapters/first-chapter-duma-key.html",
+                    "sunday_review_link": "https://www.nytimes.com/2008/03/02/books/review/Campbell-t.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "ELEVATION",
+            "description": "A man who is losing weight without getting thinner forms an unlikely alliance with his neighbors who are dealing with prejudices.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [
+                { "isbn10": "1982102314", "isbn13": "9781982102319" },
+                { "isbn10": "1982102330", "isbn13": "9781982102333" },
+                { "isbn10": "1432858068", "isbn13": "9781432858063" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2018/10/26/books/review/stephen-king-elevation.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "END OF WATCH",
+            "description": "The conclusion of the Bill Hodges trilogy.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Scribner",
+            "isbns": [
+                { "isbn10": "1501129740", "isbn13": "9781501129742" },
+                { "isbn10": "1501134159", "isbn13": "9781501134159" }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2016/06/12/books/review/stephen-kings-end-of-watch.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Everything's Eventual: 14 Dark Tales",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen King",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "0743457358", "isbn13": "9780743457354" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/04/14/books/the-horror-etc.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "FAIRY TALE",
+            "description": "A high school kid inherits the keys to a shed that is a portal to another world where good and evil are at war.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket",
+            "isbns": [
+                { "isbn10": "1668002175", "isbn13": "9781668002179" },
+                { "isbn10": "1668002183", "isbn13": "9781668002186" },
+                { "isbn10": "1797145282", "isbn13": "9781797145280" },
+                { "isbn10": "1668002191", "isbn13": "9781668002193" },
+                { "isbn10": "1668052679", "isbn13": "9781668052679" }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 15,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2024-10-13",
+                    "bestsellers_date": "2024-09-28",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668052679",
+                    "primary_isbn13": "9781668052679",
+                    "rank": 5,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2024-09-15",
+                    "bestsellers_date": "2024-08-31",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668052679",
+                    "primary_isbn13": "9781668052679",
+                    "rank": 2,
+                    "list_name": "Mass Market Monthly",
+                    "display_name": "Mass Market",
+                    "published_date": "2024-08-18",
+                    "bestsellers_date": "2024-08-03",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 14,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-08-13",
+                    "bestsellers_date": "2023-07-29",
+                    "weeks_on_list": 7,
+                    "rank_last_week": 13,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 13,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-08-06",
+                    "bestsellers_date": "2023-07-22",
+                    "weeks_on_list": 6,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 10,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-07-23",
+                    "bestsellers_date": "2023-07-08",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 12,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-07-16",
+                    "bestsellers_date": "2023-07-01",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 10,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-07-09",
+                    "bestsellers_date": "2023-06-24",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 12,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-07-02",
+                    "bestsellers_date": "2023-06-17",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 13,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002191",
+                    "primary_isbn13": "9781668002193",
+                    "rank": 13,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2023-06-25",
+                    "bestsellers_date": "2023-06-10",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781797145297",
+                    "rank": 12,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2023-04-16",
+                    "bestsellers_date": "2023-04-01",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002175",
+                    "primary_isbn13": "9781668002179",
+                    "rank": 15,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2023-03-26",
+                    "bestsellers_date": "2023-03-11",
+                    "weeks_on_list": 27,
+                    "rank_last_week": 13,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002175",
+                    "primary_isbn13": "9781668002179",
+                    "rank": 13,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2023-03-19",
+                    "bestsellers_date": "2023-03-04",
+                    "weeks_on_list": 26,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781797145297",
+                    "rank": 8,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2023-03-12",
+                    "bestsellers_date": "2023-02-25",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002175",
+                    "primary_isbn13": "9781668002179",
+                    "rank": 12,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2023-03-12",
+                    "bestsellers_date": "2023-02-25",
+                    "weeks_on_list": 25,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002175",
+                    "primary_isbn13": "9781668002179",
+                    "rank": 8,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2023-03-05",
+                    "bestsellers_date": "2023-02-18",
+                    "weeks_on_list": 24,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002175",
+                    "primary_isbn13": "9781668002179",
+                    "rank": 12,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2023-02-26",
+                    "bestsellers_date": "2023-02-11",
+                    "weeks_on_list": 23,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1668002175",
+                    "primary_isbn13": "9781668002179",
+                    "rank": 9,
+                    "list_name": "Hardcover Fiction",
+                    "display_name": "Hardcover Fiction",
+                    "published_date": "2023-02-19",
+                    "bestsellers_date": "2023-02-04",
+                    "weeks_on_list": 22,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}
