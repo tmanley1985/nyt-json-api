@@ -27,7 +27,7 @@ class BestSellersRequest extends FormRequest
             'isbn.*' => ['regex:/^\d{10}$|^\d{13}$/'],
             'author' => ['string'],
             'title' => ['string'],
-            'offset' => ['int', new MultipleOfTwenty],
+            'offset' => [new MultipleOfTwenty],
         ];
     }
 
