@@ -27,6 +27,7 @@ class CachedNYTService implements NYTServiceInterface
         if ($cachedData !== null) {
 
             Log::info('Using data from cache', ['cache_key' => $cacheKey]);
+
             return $cachedData;
         }
 
