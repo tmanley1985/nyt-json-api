@@ -29,7 +29,6 @@ test:
 init:
 	docker-compose build
 	docker-compose up -d
-	docker-compose exec app php artisan migrate
 
 db-refresh:
 	docker-compose exec app php artisan migrate:fresh --seed
