@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Services\NYT;
 
+use App\DTOs\BestSellersOptions;
 use Illuminate\Support\Facades\Http;
 
 class NYTService {
@@ -13,12 +14,12 @@ class NYTService {
         private readonly string $uri,
     ) {}
 
-    public function bestSellers()
+    public function bestSellers(BestSellersOptions $options)
     {
-        // Need to use a builder here.
         return Http::get(
             "{$this->uri}/lists/best-sellers/history.json", [
-                "api-key" => $this->apiKey
-            ])->json('results');
+                "api-key" => $this->apiKey,
+                ...$options->toArray(),
+            ])->throw()->json('results');
     }
 }
