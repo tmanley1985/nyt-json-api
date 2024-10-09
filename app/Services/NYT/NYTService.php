@@ -17,8 +17,6 @@ class NYTService implements NYTServiceInterface
         private readonly string $uri,
     ) {}
 
-    // TODO: Need to determine if I am going to give this a DTO or Resource return
-    // probably should do that.
     public function bestSellers(BestSellersOptions $options)
     {
         $response = Http::get(
