@@ -37,6 +37,7 @@ return [
     'nyt' => [
         'api_key' => env('NYT_API_KEY'),
         'uri' => env('NYT_URI'),
+        'cache_minutes' => env('NYT_CACHE_MINUTES'),
     ],
 
 ];
