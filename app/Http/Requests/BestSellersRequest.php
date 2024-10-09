@@ -2,13 +2,12 @@
 
 namespace App\Http\Requests;
 
-use Illuminate\Foundation\Http\FormRequest;
 use App\DTOs\BestSellersOptions;
 use App\Rules\MultipleOfTwenty;
+use Illuminate\Foundation\Http\FormRequest;
 
 class BestSellersRequest extends FormRequest
 {
-
     public function authorize(): bool
     {
         return true;
@@ -30,7 +29,7 @@ class BestSellersRequest extends FormRequest
                 $fail($attribute.' must be a string.');
             }
         };
-    
+
         return [
             'isbn' => ['array'],
             // The strings must be either 10 or 13 characters long.
@@ -45,5 +44,4 @@ class BestSellersRequest extends FormRequest
     {
         return BestSellersOptions::fromArray($this->validated());
     }
-
 }

@@ -2,8 +2,8 @@
 
 namespace App\Providers;
 
-use Illuminate\Support\ServiceProvider;
 use App\Services\NYT\NYTService;
+use Illuminate\Support\ServiceProvider;
 
 class NYTServiceProvider extends ServiceProvider
 {

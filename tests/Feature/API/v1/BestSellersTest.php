@@ -2,15 +2,15 @@
 
 namespace Tests\Feature\API\v1;
 
-use Tests\TestCase;
-use Illuminate\Support\Str;
-use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Str;
 use PHPUnit\Framework\Attributes\Test;
+use Tests\TestCase;
 
 class BestSellersTest extends TestCase
 {
-    const BASE_NYT_API_URL = "https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json";
+    const BASE_NYT_API_URL = 'https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json';
 
     #[Test]
     public function it_should_fail_validation_if_offset_is_invalid(): void
@@ -147,7 +147,7 @@ class BestSellersTest extends TestCase
 
             return $baseUrl == self::BASE_NYT_API_URL
                 && $request['api-key'] === config('services.nyt.api_key')
-                && $request['author'] === "Stephen King";
+                && $request['author'] === 'Stephen King';
         });
     }
 
@@ -170,7 +170,7 @@ class BestSellersTest extends TestCase
 
             return $baseUrl == self::BASE_NYT_API_URL
                 && $request['api-key'] === config('services.nyt.api_key')
-                && $request['title'] === "CELL";
+                && $request['title'] === 'CELL';
         });
     }
 
@@ -213,9 +213,10 @@ class BestSellersTest extends TestCase
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
+
             return $baseUrl == self::BASE_NYT_API_URL
                 && $request['api-key'] === config('services.nyt.api_key')
-                && $request['isbn'] === "1401228305";
+                && $request['isbn'] === '1401228305';
         });
     }
 
@@ -235,10 +236,10 @@ class BestSellersTest extends TestCase
 
         Http::assertSent(function ($request) {
             $baseUrl = Str::before($request->url(), '?');
+
             return $baseUrl == self::BASE_NYT_API_URL
                 && $request['api-key'] === config('services.nyt.api_key')
-                && $request['isbn'] === "1401228305;9780316015844";
+                && $request['isbn'] === '1401228305;9780316015844';
         });
     }
-
 }

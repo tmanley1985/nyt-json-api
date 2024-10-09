@@ -4,10 +4,8 @@ declare(strict_types=1);
 
 namespace App\DTOs;
 
-
 class BestSellersOptions
 {
-
     public function __construct(
         public ?string $isbn = null,
         public ?string $author = null,
@@ -39,5 +37,4 @@ class BestSellersOptions
     {
         return is_array($isbn) ? implode(';', $isbn) : $isbn;
     }
-
 }
